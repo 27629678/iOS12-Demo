@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  iOS12
 //
-//  Created by 于晓华 on 2018/6/18.
-//  Copyright © 2018 于晓华. All rights reserved.
+//  Created by hzyuxiaohua on 2018/6/18.
+//  Copyright © 2018 XOYO Co., Ltd. All rights reserved.
 //
 
 import UIKit
